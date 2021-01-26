@@ -28,14 +28,22 @@ The data store must therefore be thread-safe.
 4. The client will bear as little memory costs as possible to use this data store, while
 deriving maximum performance with respect to response times for accessing the data
 store.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Environment Setup:
 
-Environment Setup
 1.Operating system: Windows 10
+
 2.Java: Java 8 or higher
+
 3.Maven Project
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Accessing DataStore CRD operations
+
 ->A class named HomeController contains the path ways to all crd opertions.
+
 ->A class named Creating consists of class functions which can be used to create a file and to create  a  json object.
+
 ->A class named Reading consists of class functions which can be used to read a data in file.
+
 ->A class named Deleting consists of class functions which can be used to delete a data from the file.
