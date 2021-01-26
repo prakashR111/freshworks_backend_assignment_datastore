@@ -18,7 +18,7 @@ public class HomeController {
 			Scanner scanner=new Scanner(System.in);
 			do {
 				System.out.println("\nWelcome to the Key-Value DataStore");
-				System.out.println("1.Create a new file");
+				System.out.println("1.Create a new file or to create a new object in existing file");
 				System.out.println("2.Read the contents in a file ");
 				System.out.println("3.Delete a object in file ");
 				System.out.println("4.Exit");
