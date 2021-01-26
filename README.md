@@ -34,7 +34,6 @@ Environment Setup
 2.Java: Java 8 or higher
 3.Maven Project
 
-
 Accessing DataStore CRD operations
 ->A class named HomeController contains the path ways to all crd opertions.
 ->A class named Creating consists of class functions which can be used to create a file and to create  a  json object.
