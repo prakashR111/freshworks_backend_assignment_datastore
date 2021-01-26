@@ -36,7 +36,7 @@ Environment Setup
 
 
 Accessing DataStore CRD operations
-A class named HomeController contains the path ways to all crd opertions.
-A class named Creating consists of class functions which can be used to create a file and to create  a  json object.
-A class named Reading consists of class functions which can be used to read a data in file.
-A class named Deleting consists of class functions which can be used to delete a data from the file.
+->A class named HomeController contains the path ways to all crd opertions.
+->A class named Creating consists of class functions which can be used to create a file and to create  a  json object.
+->A class named Reading consists of class functions which can be used to read a data in file.
+->A class named Deleting consists of class functions which can be used to delete a data from the file.
